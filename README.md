@@ -369,3 +369,4 @@ We encourage you to share your experiences, provide feedback, and report any iss
 * [1-Click Installer](https://tinyurl.com/l4d3nosurvivors)
 * [Steam Workshop Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3496964078)
 * [Gameplay Footage in 4K](https://youtu.be/THb3k8aqyFo)
+* Patreon Link: https://www.patreon.com/c/ghostsquadclick/posts
