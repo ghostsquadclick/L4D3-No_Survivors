@@ -366,7 +366,8 @@ G̶H̶O̶S̶T̶
 We encourage you to share your experiences, provide feedback, and report any issues you encounter. Your input helps us refine and improve this ambitious project.
 
 **LINKS:**
-* [1-Click Installer](https://tinyurl.com/l4d3nosurvivors)
+* [1-Click Installer MEGA.nz](https://tinyurl.com/l4d3nosurvivors)
+* [1-Click Installer Google Drive](https://drive.google.com/file/d/1h817KDBSFHIv-cgcPG014DZSfFuHMgwt/view?usp=sharing)
 * [Steam Workshop Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3496964078)
 * [Gameplay Footage in 4K](https://youtu.be/THb3k8aqyFo)
 * Patreon Link: https://www.patreon.com/c/ghostsquadclick/posts
