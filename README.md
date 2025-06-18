@@ -17,6 +17,9 @@
 9.  **Crucially, make sure you unsubscribe from any Left 4 Dead 2 addons you currently have subscribed to on the Steam Workshop.** This prevents the game from redownloading them and conflicting with the modpack.
 
 
+# Introduction
+
+
 Hello, my name is G̶H̶O̶S̶T̶, and I'm thrilled to present Left 4 Dead 3: No Survivors, a modpack born from a deep passion for the Left 4 Dead universe. With over 650 hours logged on my Steam account, approximately 3500 hours on my Xbox 360 across L4D1 and L4D2 Versus mode, and tens of thousands of collective hours between my friends and me, you could say we're a little dedicated. /Not that we're that proud of our hour counts ;) 
 
 This modpack is my love letter, a heartfelt answer to the question: "What if Valve did make L4D3? What would that look like?" I've poured countless hours into curating and integrating 351 unique items from the Steam Workshop to create a vision of Left 4 Dead's next generation. I've taken some creative liberties to truly elevate the horror and intensity. For instance, the Tank has been transformed into the terrifying Meatwall, a fantastic custom asset addon inspired by a scrapped Turtle Rock Studios concept. I've also reworked some of the Special Infected to be, in my humble opinion, truly horrifying. The Spirit Witch, a shadowy apparition with glowing red eyes and all-new sound effects, is one such example. The Jockey, too, becomes a rare boss known as "The Howler," complete with its own uniquely horrifying mechanics. Beyond these major changes, you'll find thousands of replaced sound effects, music cues, and other subtle yet impactful additions designed to drag Left 4 Dead kicking and screaming into the next generation.
