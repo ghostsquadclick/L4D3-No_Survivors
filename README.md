@@ -1,6 +1,9 @@
 ![Left 4 Dead 3: No Survivors Logo](https://github.com/ghostsquadclick/L4D3-No_Survivors/blob/main/l4d3logotransparent.png)
 # An Overhaul Modpack by G̶H̶O̶S̶T̶
 
+[![Watch the video](https://github.com/ghostsquadclick/L4D3-No_Survivors/raw/main/watchonyoutube.png)](https://youtu.be/zi-7vAASHyE)
+
+
 ## FULL Installation Steps Are Found Below // TL;DR? - 1 Click Installer  & Quick Guide Here:
 
 **Installation Steps:**
