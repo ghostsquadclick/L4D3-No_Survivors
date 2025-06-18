@@ -115,7 +115,9 @@ You have two primary ways to install "Left 4 Dead 3: No Survivors":
 
 ### Option 1: 1-Click Installer (Recommended for Full Experience)
 
-I've developed a **1-Click Installer** for a seamless setup, especially if you want all the performance benefits and custom content immediately.
+I've developed a **1-Click Installer** for a seamless setup, especially if you want all the performance benefits and custom content immediately. 
+
+#### (*NOTE: YOU DO NOT HAVE TO USE THIS, BUT I HIGHLY RECOMMEND ALLOWING THE ADDONS TO DOWNLOAD FROM THE WORKSHOP (REQUIRES YOU TO LAUNCH THE GAME, ALLOW FOR THE ADDONS TO FULLY DOWNLOAD [YOU'LL SEE LOADING ICON GO AWAY FROM BESIDE "ADDONS" AND THE MAIN MENU UI AND MUSIC WILL CHANGE]), THEN QUIT L4D2, OPEN YOUR L4D2 DIRECTORY, CUT AND PASTE (OR MOVE) ALL FILES FROM STEAMAPPS/COMMON/LEFT 4 DEAD 2/LEFT4DEAD2/ADDONS/WORKSHOP TO STEAMAPPS/COMMON/LEFT 4 DEAD 2/LEFT4DEAD2/ADDONS/, THEN CLOSE YOUR FILES, AND UNSUBSCRIBE FROM EVERYTHING ON THE WORKSHOP (TO PREVENT THE GAME FROM REDOWNLOADING) THIS MAKES LOADING TIMES INSTANT AND PREVENTS A LOT OF OTHER ISSUES LIKE MODS NOT LOADING BEFORE STARTING A CAMPAIGN.)
 
 **Understanding Storage Requirements:** This is a large modpack!
 
@@ -128,13 +130,15 @@ I've developed a **1-Click Installer** for a seamless setup, especially if you w
 **Installation Steps:**
 
 1.  Download the 1-Click Installer. (Link will be provided separately, as it's a large file).
-2.  Unzip the installer archive.
-3.  Launch the installer application.
-4.  The installer should auto-detect your Left 4 Dead 2 directory. If not, click the folder icon and manually browse to `{SteamLibrary}/steamapps/common/Left 4 Dead 2/` (this is the folder that contains `left4dead2.exe` and the `left4dead2` folder).
-5.  Click "Install."
-6.  **IMPORTANT: Do not click anywhere or interact with your computer during the installation process.** The installer is programmatically unzipping large files and transferring them to your `/left4dead2/addons/` folder. Clicking can easily cause it to crash.
-7.  If the installer crashes, simply restart it. It's designed to wipe your addons folders and start over clean.
-8.  **Crucially, make sure you unsubscribe from any Left 4 Dead 2 addons you currently have subscribed to on the Steam Workshop.** This prevents the game from redownloading them and conflicting with the modpack.
+* [1-Click Installer MEGA.nz](https://tinyurl.com/l4d3nosurvivors)
+* [1-Click Installer Google Drive](https://drive.google.com/file/d/1h817KDBSFHIv-cgcPG014DZSfFuHMgwt/view?usp=sharing)
+3.  Unzip the installer archive.
+4.  Launch the installer application.
+5.  The installer should auto-detect your Left 4 Dead 2 directory. If not, click the folder icon and manually browse to `{SteamLibrary}/steamapps/common/Left 4 Dead 2/` (this is the folder that contains `left4dead2.exe` and the `left4dead2` folder).
+6.  Click "Install."
+7.  **IMPORTANT: Do not click anywhere or interact with your computer during the installation process.** The installer is programmatically unzipping large files and transferring them to your `/left4dead2/addons/` folder. Clicking can easily cause it to crash.
+8.  If the installer crashes, simply restart it. It's designed to wipe your addons folders and start over clean.
+9.  **Crucially, make sure you unsubscribe from any Left 4 Dead 2 addons you currently have subscribed to on the Steam Workshop.** This prevents the game from redownloading them and conflicting with the modpack.
 
 The installer also includes custom music for the modpack by my friend's band, Riftwalker! You'll find a mute button and volume slider in the installer, defaulting to 20% volume and capping at 80% (for your ears!).
 
