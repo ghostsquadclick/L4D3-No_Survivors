@@ -356,7 +356,7 @@ This massive overhaul is thanks to the incredible talent and generosity of the L
 ---
 
 ### Collection Assembled By:
-G̶H̶O̶S̶T̶
+# G̶H̶O̶S̶T̶
 ![Ghost Logo](https://github.com/ghostsquadclick/L4D3-No_Survivors/blob/main/ghost.png)
 
 ---
