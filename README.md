@@ -119,6 +119,8 @@ I've developed a **1-Click Installer** for a seamless setup, especially if you w
 
 #### NOTE: YOU DO NOT HAVE TO USE THIS INSTALLER, but I highly recommend allowing addons to download from the Workshop. Launch the game, let the addons fully download (wait for the loading icon to disappear and the UI/music to change), then quit L4D2. Move all files from addons/workshop to addons/ in your L4D2 directory, and unsubscribe from Workshop items to prevent redownloading.
 
+#### If you'd like to do this, but do not wish to mess with copying files, there's a button on the Installer "Already subscribed to the Collection? Click Here", which copies the files for you, and also installs my custom media pack (intro videos + main menu bg video replacement)
+
 #### (THIS MAKES LOADING TIMES INSTANT AND PREVENTS A LOT OF OTHER ISSUES LIKE MODS NOT LOADING BEFORE STARTING A CAMPAIGN.)
 
 **Understanding Storage Requirements:** This is a large modpack!
