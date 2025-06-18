@@ -117,14 +117,9 @@ You have two primary ways to install "Left 4 Dead 3: No Survivors":
 
 I've developed a **1-Click Installer** for a seamless setup, especially if you want all the performance benefits and custom content immediately. 
 
-#### (*NOTE: YOU DO NOT HAVE TO USE THIS, BUT I HIGHLY RECOMMEND ALLOWING THE ADDONS TO DOWNLOAD FROM THE WORKSHOP
+#### NOTE: YOU DO NOT HAVE TO USE THIS INSTALLER, but I highly recommend allowing addons to download from the Workshop. Launch the game, let the addons fully download (wait for the loading icon to disappear and the UI/music to change), then quit L4D2. Move all files from addons/workshop to addons/ in #### your L4D2 directory, and unsubscribe from Workshop items to prevent redownloading.
 
-#### (REQUIRES YOU TO LAUNCH THE GAME, ALLOW FOR THE ADDONS TO FULLY DOWNLOAD [YOU'LL SEE LOADING ICON GO AWAY FROM BESIDE "ADDONS" AND THE MAIN MENU UI AND MUSIC WILL CHANGE]),
-
-#### THEN QUIT L4D2, OPEN YOUR L4D2 DIRECTORY, CUT AND PASTE (OR MOVE) ALL FILES FROM STEAMAPPS/COMMON/LEFT 4 DEAD 2/LEFT4DEAD2/ADDONS/WORKSHOP TO STEAMAPPS/COMMON/LEFT 4 DEAD 2/LEFT4DEAD2/ADDONS/, 
-#### THEN CLOSE YOUR FILES, AND UNSUBSCRIBE FROM EVERYTHING ON THE WORKSHOP (TO PREVENT THE GAME FROM REDOWNLOADING) 
-
-#### THIS MAKES LOADING TIMES INSTANT AND PREVENTS A LOT OF OTHER ISSUES LIKE MODS NOT LOADING BEFORE STARTING A CAMPAIGN.)
+#### (THIS MAKES LOADING TIMES INSTANT AND PREVENTS A LOT OF OTHER ISSUES LIKE MODS NOT LOADING BEFORE STARTING A CAMPAIGN.)
 
 **Understanding Storage Requirements:** This is a large modpack!
 
