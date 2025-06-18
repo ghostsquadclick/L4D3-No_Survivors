@@ -1,6 +1,22 @@
 ![Left 4 Dead 3: No Survivors Logo](https://github.com/ghostsquadclick/L4D3-No_Survivors/blob/main/l4d3logotransparent.png)
 # An Overhaul Modpack by G̶H̶O̶S̶T̶
 
+## FULL Installation Steps Are Found Below // TL;DR? - 1 Click Installer  & Quick Guide Here:
+
+**Installation Steps:**
+
+1.  Download the 1-Click Installer. (Link will be provided separately, as it's a large file).
+* [1-Click Installer MEGA.nz](https://tinyurl.com/l4d3nosurvivors)
+* [1-Click Installer Google Drive](https://drive.google.com/file/d/1h817KDBSFHIv-cgcPG014DZSfFuHMgwt/view?usp=sharing)
+3.  Unzip the installer archive.
+4.  Launch the installer application.
+5.  The installer should auto-detect your Left 4 Dead 2 directory. If not, click the folder icon and manually browse to `{SteamLibrary}/steamapps/common/Left 4 Dead 2/` (this is the folder that contains `left4dead2.exe` and the `left4dead2` folder).
+6.  Click "Install."
+7.  **IMPORTANT: Do not click anywhere or interact with your computer during the installation process.** The installer is programmatically unzipping large files and transferring them to your `/left4dead2/addons/` folder. Clicking can easily cause it to crash.
+8.  If the installer crashes, simply restart it. It's designed to wipe your addons folders and start over clean.
+9.  **Crucially, make sure you unsubscribe from any Left 4 Dead 2 addons you currently have subscribed to on the Steam Workshop.** This prevents the game from redownloading them and conflicting with the modpack.
+
+
 Hello, my name is G̶H̶O̶S̶T̶, and I'm thrilled to present Left 4 Dead 3: No Survivors, a modpack born from a deep passion for the Left 4 Dead universe. With over 650 hours logged on my Steam account, approximately 3500 hours on my Xbox 360 across L4D1 and L4D2 Versus mode, and tens of thousands of collective hours between my friends and me, you could say we're a little dedicated. /Not that we're that proud of our hour counts ;) 
 
 This modpack is my love letter, a heartfelt answer to the question: "What if Valve did make L4D3? What would that look like?" I've poured countless hours into curating and integrating 351 unique items from the Steam Workshop to create a vision of Left 4 Dead's next generation. I've taken some creative liberties to truly elevate the horror and intensity. For instance, the Tank has been transformed into the terrifying Meatwall, a fantastic custom asset addon inspired by a scrapped Turtle Rock Studios concept. I've also reworked some of the Special Infected to be, in my humble opinion, truly horrifying. The Spirit Witch, a shadowy apparition with glowing red eyes and all-new sound effects, is one such example. The Jockey, too, becomes a rare boss known as "The Howler," complete with its own uniquely horrifying mechanics. Beyond these major changes, you'll find thousands of replaced sound effects, music cues, and other subtle yet impactful additions designed to drag Left 4 Dead kicking and screaming into the next generation.
@@ -120,6 +136,7 @@ I've developed a **1-Click Installer** for a seamless setup, especially if you w
 #### NOTE: YOU DO NOT HAVE TO USE THIS INSTALLER, but I highly recommend allowing addons to download from the Workshop. Launch the game, let the addons fully download (wait for the loading icon to disappear and the UI/music to change), then quit L4D2. Move all files from addons/workshop to addons/ in your L4D2 directory, and unsubscribe from Workshop items to prevent redownloading.
 
 #### If you'd like to do this, but do not wish to mess with copying files, there's a button on the Installer "Already subscribed to the Collection? Click Here", which copies the files for you, and also installs my custom media pack (intro videos + main menu bg video replacement)
+#### SEE: Option 2, Below (Installation Steps)
 
 #### (THIS MAKES LOADING TIMES INSTANT AND PREVENTS A LOT OF OTHER ISSUES LIKE MODS NOT LOADING BEFORE STARTING A CAMPAIGN.)
 
